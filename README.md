@@ -1,5 +1,5 @@
 <h1>Bank Fraudulent Transaction Detection</h1>
-<h3>>Overview</h3
+<h3>Overview</h3
 <p>This repository contains a dataset of bank transactions, which includes various details about each transaction such as transaction ID, sender and receiver account IDs, transaction amount, type, timestamp, status, fraud flag, geolocation, device used, network slice ID, latency, slice bandwidth, and PIN code. The primary goal of this project is to detect fraudulent transactions using machine learning techniques.</p>
 
 Dataset
