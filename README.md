@@ -90,10 +90,10 @@ Here are some example visualizations you can create:
 
 <li>Fraudulent Transactions Analysis</li>
 
-![image alt](https://github.com/Softechanalytics/Bank_Transaction/blob/a5d79d045a67957ccca4436b7c15473b88411de0/Bank_Frame1.png)
+<img src = "https://github.com/Softechanalytics/Bank_Transaction/blob/a5d79d045a67957ccca4436b7c15473b88411de0/Bank_Frame1.png"
 
 <li>Fraud Detection</li>
-![image alt](https://github.com/Softechanalytics/Bank_Transaction/blob/a5d79d045a67957ccca4436b7c15473b88411de0/Bank_Frame2.png)
+
 
 
 
