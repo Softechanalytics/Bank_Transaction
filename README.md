@@ -95,6 +95,7 @@ Here are some example visualizations you can create:
 ![image alt](https://github.com/Softechanalytics/Bank_Transaction/blob/5c896ef2cd5936f89bf72c3abdcac113481bbddf/Bank_Frame1.png)
 
 
+<li>Fraud Detection</li>
 
 
-
+![image alt](https://github.com/Softechanalytics/Bank_Transaction/blob/06aee89936c94afe1fb924e090ae10a636ed8118/Bank_frame2.png)
