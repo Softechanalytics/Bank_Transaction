@@ -27,27 +27,28 @@
 <li>Encode categorical variables.</li>
 <li>Normalize numerical features.</li>
 </ul>
-1. Import the Dataset
-Open Power BI Desktop.
+<ol>
+<li> Import the Dataset</li>
+<li> Open Power BI Desktop.</li>
 Click on Home > Get Data > Text/CSV.
 Select the bank transaction_data.csv file and click Open.
 Click Load to import the data into Power BI.
-2. Data Preparation
+<li> <em>Data Preparation</em>em></li>
 Once the data is loaded, you can see it in the Fields pane.
-Click on Transform Data to open the Power Query Editor.
+<em>Click on Transform Data to open the Power Query Editor.</em>
 In the Power Query Editor, you can perform various data cleaning and transformation tasks such as:
-Removing unnecessary columns.
-Handling missing values.
-Changing data types.
-Filtering rows based on specific criteria.
-3. Create Relationships (if needed)
+<em>Removing unnecessary columns.</em>
+<em>Handling missing values.</em>
+<em>Changing data types.</em>
+<em>Filtering rows based on specific criteria.</em>
+<li> Create Relationships (if needed)</li>
 If you have multiple tables and need to create relationships between them:
 
 Go to the Model view.
 Drag and drop fields to create relationships between tables.
-4. Create Visualizations
+<li>4. Create Visualizations</li>
 Go to the Report view.
-Use the Visualizations pane to create various charts and graphs. Here are some examples:
+Use the Visualizations pane to create various charts and graphs. Here are some examples:</ol>
 Fraudulent Transactions Analysis
 Visualization Type: Bar Chart
 Steps:
