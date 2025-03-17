@@ -17,17 +17,16 @@
 <li>Device Used: Type of device used for the transaction (e.g., Desktop, Mobile).</li>
 <li>Network Slice ID: Identifier for the network slice used during the transaction.</li>
 <li>Latency (ms): Network latency in milliseconds.</li>
-<li>Slice Bandwidth (Mbps): Bandwidth of the network slice in megabits per second.</li>
+<li>Slice Bandwidth (Mbps): The bandwidth of the network slice in megabits per second.</li>
 <li>PIN Code: PIN code associated with the transaction.</li>
 </ul>
-Project Structure
-data/: Contains the dataset file bank transaction_data.csv.
 
-Data Preprocessing
-Handle missing values.
-Encode categorical variables.
-Normalize numerical features.
-
+<h3>Data Preprocessing</h3>
+<ul>
+<li>Handle missing values.</li>
+<li>Encode categorical variables.</li>
+<li>Normalize numerical features.</li>
+</ul>
 1. Import the Dataset
 Open Power BI Desktop.
 Click on Home > Get Data > Text/CSV.
