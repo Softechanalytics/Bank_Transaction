@@ -48,52 +48,55 @@ Go to the Model view.
 Drag and drop fields to create relationships between tables.
 <li>4. Create Visualizations</li>
 <b>Go to the Report view.</b>
-Use the Visualizations pane to create various charts and graphs. Here are some examples:</ol>
-Fraudulent Transactions Analysis
+
+Use the visualization pane to create various charts and graphs. Here are some examples:</ol>
+
+<ul>
+<li>Fraudulent Transactions Analysis</li>
 Visualization Type: Bar Chart
 Steps:
 Select the Fraud Flag field.
 Choose the Bar Chart visualization.
 Add Transaction Amount to the values.
 Filter the data to show only fraudulent transactions.
-Transaction Amount Distribution
+<li>Transaction Amount Distribution</li>
 Visualization Type: Histogram
 Steps:
 Select the Transaction Amount field.
 Choose the Histogram visualization.
 Adjust the bins and formatting as needed.
-Transaction Types Breakdown
+<li>Transaction Types Breakdown</li>
 Visualization Type: Pie Chart
 Steps:
 Select the Transaction Type field.
 Choose the Pie Chart visualization.
 Add Transaction Amount to the values.
-Geolocation Analysis
+<li>Geolocation Analysis</li>
 Visualization Type: Map
 Steps:
 Select the Geolocation (Latitude/Longitude) field.
 Choose the Map visualization.
 Add Transaction Amount to the values.
-5. Create Dashboards
+<li> Create Dashboards</li>
 Combine multiple visualizations into a single dashboard.
 Use slicers to filter data dynamically.
 Add titles, labels, and other formatting elements to make the dashboard more informative and visually appealing.
-6. Publish and Share
+<li>Publish and Share</li>
 Save your Power BI report.
 Click on Publish to upload the report to the Power BI service.
 Share the report with others by providing access through the Power BI service.
 Example Visualizations
 Here are some example visualizations you can create:
 
-Fraudulent Transactions Analysis
+<li>Fraudulent Transactions Analysis</li>
 !Fraudulent Transactions Analysis
 
+<li>Transaction Amount Distribution</li>
 Transaction Amount Distribution
-!Transaction Amount Distribution
 
-Transaction Types Breakdown
+<li>Transaction Types Breakdown</li>
 !Transaction Types Breakdown
 
-Geolocation Analysis
+<li>Geolocation Analysis</li>
 !Geolocation Analysis
 
