@@ -2,24 +2,24 @@
 <h3>Overview</h3
 <p>This repository contains a dataset of bank transactions, which includes various details about each transaction such as transaction ID, sender and receiver account IDs, transaction amount, type, timestamp, status, fraud flag, geolocation, device used, network slice ID, latency, slice bandwidth, and PIN code. The primary goal of this project is to detect fraudulent transactions using machine learning techniques.</p>
 
-Dataset
-The dataset bank transaction_data.csv includes the following columns:
+<h3>Dataset</h3>
+<ul>The dataset bank transaction_data.csv includes the following columns:
 
-Transaction ID: Unique identifier for each transaction.
-Sender Account ID: Unique identifier for the sender's account.
-Receiver Account ID: Unique identifier for the receiver's account.
-Transaction Amount: The amount of money involved in the transaction.
-Transaction Type: Type of transaction (e.g., Deposit, Withdrawal, Transfer).
-Timestamp: Date and time when the transaction occurred.
-Transaction Status: Status of the transaction (e.g., Success, Failed).
-Fraud Flag: Indicates whether the transaction is flagged as fraudulent (True/False).
-Geolocation (Latitude/Longitude): Geographical location where the transaction was initiated.
-Device Used: Type of device used for the transaction (e.g., Desktop, Mobile).
-Network Slice ID: Identifier for the network slice used during the transaction.
-Latency (ms): Network latency in milliseconds.
-Slice Bandwidth (Mbps): Bandwidth of the network slice in megabits per second.
-PIN Code: PIN code associated with the transaction.
-
+<li>Transaction ID: Unique identifier for each transaction.</li>
+<li>Sender Account ID: Unique identifier for the sender's account.</li>
+<li>Receiver Account ID: Unique identifier for the receiver's account.</li>
+<li>Transaction Amount: The amount of money involved in the transaction.</li>
+<li>Transaction Type: Type of transaction (e.g., Deposit, Withdrawal, Transfer).</li>
+<li>Timestamp: Date and time when the transaction occurred.</li>
+<li>Transaction Status: Status of the transaction (e.g., Success, Failed).</li>
+<li>Fraud Flag: Indicates whether the transaction is flagged as fraudulent (True/False).</li>
+<li>Geolocation (Latitude/Longitude): Geographical location where the transaction was initiated.</li>
+<li>Device Used: Type of device used for the transaction (e.g., Desktop, Mobile).</li>
+<li>Network Slice ID: Identifier for the network slice used during the transaction.</li>
+<li>Latency (ms): Network latency in milliseconds.</li>
+<li>Slice Bandwidth (Mbps): Bandwidth of the network slice in megabits per second.</li>
+<li>PIN Code: PIN code associated with the transaction.</li>
+</ul>
 Project Structure
 data/: Contains the dataset file bank transaction_data.csv.
 
