@@ -33,7 +33,7 @@
 Click on Home > Get Data > Text/CSV.
 Select the bank transaction_data.csv file and click Open.
 Click Load to import the data into Power BI.
-<li> <em>Data Preparation</em>em></li>
+<li> <em>Data Preparation</em></li>
 Once the data is loaded, you can see it in the Fields pane.
 <em>Click on Transform Data to open the Power Query Editor.</em>
 In the Power Query Editor, you can perform various data cleaning and transformation tasks such as:
@@ -47,7 +47,7 @@ If you have multiple tables and need to create relationships between them:
 Go to the Model view.
 Drag and drop fields to create relationships between tables.
 <li>4. Create Visualizations</li>
-Go to the Report view.
+<b>Go to the Report view.</b>
 Use the Visualizations pane to create various charts and graphs. Here are some examples:</ol>
 Fraudulent Transactions Analysis
 Visualization Type: Bar Chart
