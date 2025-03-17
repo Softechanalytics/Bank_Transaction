@@ -92,12 +92,8 @@ Here are some example visualizations you can create:
 
 ![image alt](https://github.com/Softechanalytics/Bank_Transaction/blob/a5d79d045a67957ccca4436b7c15473b88411de0/Bank_Frame1.png)
 
-<li>Transaction Amount Distribution</li>
-Transaction Amount Distribution
+<li>Fraud Detection</li>
+![image](https://github.com/Softechanalytics/Bank_Transaction/blob/fe9b96391273da80e6138f61e580d0ef770b256f/Bank_frame2.png)
 
-<li>Transaction Types Breakdown</li>
-!Transaction Types Breakdown
 
-<li>Geolocation Analysis</li>
-!Geolocation Analysis
 
