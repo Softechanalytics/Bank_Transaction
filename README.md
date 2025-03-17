@@ -89,7 +89,8 @@ Example Visualizations
 Here are some example visualizations you can create:
 
 <li>Fraudulent Transactions Analysis</li>
-!Fraudulent Transactions Analysis
+
+![image alt](https://github.com/Softechanalytics/Bank_Transaction/blob/a5d79d045a67957ccca4436b7c15473b88411de0/Bank_Frame1.png)
 
 <li>Transaction Amount Distribution</li>
 Transaction Amount Distribution
